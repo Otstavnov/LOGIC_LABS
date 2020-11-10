@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\ПГУ_2_КУРС\ЛОГИКА\lb3\lb3\Source.cpp(338,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ_2_КУРС\ЛОГИКА\lb3\lb3\Source.cpp(378,6): warning C4101: a: неиспользованная локальная переменная
+  lb3.vcxproj -> D:\ПГУ_2_КУРС\ЛОГИКА\lb3\Debug\lb3.exe
