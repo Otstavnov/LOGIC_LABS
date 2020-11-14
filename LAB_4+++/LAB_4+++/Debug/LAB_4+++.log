@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\ПГУ_2_КУРС\ЛОГИКА\LAB_4+++\LAB_4+++\Source.cpp(88,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ_2_КУРС\ЛОГИКА\LAB_4+++\LAB_4+++\Source.cpp(154,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LAB_4+++.vcxproj -> D:\ПГУ_2_КУРС\ЛОГИКА\LAB_4+++\Debug\LAB_4+++.exe
