@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Михаил\source\repos\LAB_7\LAB_7\Source.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\LAB_7\LAB_7\Source.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  LAB_7.vcxproj -> C:\Users\Михаил\source\repos\LAB_7\Debug\LAB_7.exe
