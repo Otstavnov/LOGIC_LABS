@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(55,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(136,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(141,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(213,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(295,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(300,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\Project3\Project3\Source.cpp(373,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\Михаил\source\repos\Project3\Debug\Project3.exe
